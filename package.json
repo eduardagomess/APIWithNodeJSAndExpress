@@ -1,0 +1,26 @@
+{
+  "name": "api_node_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardagomess/APIWithNodeJSAndExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardagomess/APIWithNodeJSAndExpress/issues"
+  },
+  "homepage": "https://github.com/eduardagomess/APIWithNodeJSAndExpress#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.2.3",
+    "express": "^4.17.1"
+  }
+}
